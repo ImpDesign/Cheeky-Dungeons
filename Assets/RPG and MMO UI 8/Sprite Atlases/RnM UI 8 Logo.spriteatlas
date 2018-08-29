@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: RnM UI 8 Logo
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 2
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 167bf1b27122bef448123c07b2b9a706, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 2a7295dcfa27c85499c3ba7a6e0b3fd5, type: 3}
+  - {fileID: 21300000, guid: 6ed07bfcb3851ad4dbb5b98ffe71284a, type: 3}
+  - {fileID: 21300000, guid: 2ba0c217c9104b44f9466fb9eb9f4a31, type: 3}
+  - {fileID: 21300000, guid: 8a9526eac3616c246a6fbf5d8685547d, type: 3}
+  - {fileID: 21300000, guid: 2d8650bf3acfe81488d58ac69f761df7, type: 3}
+  - {fileID: 21300000, guid: cca736f3ec1f9a6488dbce7dff8b6edd, type: 3}
+  - {fileID: 21300000, guid: 220a451176c55114a8a03ce26b4ba304, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Logo_Background
+  - Logo_Borders_1
+  - Main_Text
+  - Logo_Borders_2
+  - Logo_Number_Foreground
+  - Logo_Number_Background
+  - 8
+  m_Tag: RnM UI 8 Logo
+  m_IsVariant: 0

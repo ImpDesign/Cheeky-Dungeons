@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: RnM UI 8 Lobby
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 2
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: ad265dde176530148a9043dbb84e5434, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8e2cd5e2c52af0a4b8fc346c8d40ed43, type: 3}
+  - {fileID: 21300000, guid: 4d3953dc72ecd534783162ecd5317b5b, type: 3}
+  - {fileID: 21300000, guid: 98d152e30cd101e4fbc5830d05cde097, type: 3}
+  - {fileID: 21300000, guid: 37419ca27c3be2d42a26c1e67041458c, type: 3}
+  - {fileID: 21300000, guid: 73f07987a09be0e4aaaba6c8c4eff240, type: 3}
+  - {fileID: 21300000, guid: 41cea82cb94a2f745bdc0976a82dc440, type: 3}
+  - {fileID: 21300000, guid: d69b3b04eac289742ab2f6fcb460122e, type: 3}
+  - {fileID: 21300000, guid: 5fe72c057a3e98943a594a65a24dabd3, type: 3}
+  - {fileID: 21300000, guid: 61c2a3bdf5e833c40b145a52cdbfbeff, type: 3}
+  - {fileID: 21300000, guid: e63849975b2004c4b9c91494dca50311, type: 3}
+  - {fileID: 21300000, guid: 045425eb97142424c8920798bdab0b1e, type: 3}
+  - {fileID: 21300000, guid: 066e2fb47d1def642b697b60cd635cb3, type: 3}
+  - {fileID: 21300000, guid: 21bdd3f3822375945acd1c165e6ce214, type: 3}
+  - {fileID: 21300000, guid: d5e1cf29a8dea83438aec3fc7e49fcfc, type: 3}
+  - {fileID: 21300000, guid: e182031d694485b488cbe533bf209c28, type: 3}
+  - {fileID: 21300000, guid: 7504a8ca438f2584ba70b3170da519e7, type: 3}
+  - {fileID: 21300000, guid: ad076ab46232d4e4383c9470e7b0879a, type: 3}
+  - {fileID: 21300000, guid: 5afef0bf88ec95c4ca9b1b8ab02c1608, type: 3}
+  - {fileID: 21300000, guid: 8dcc584884c965e4ca460a3713205982, type: 3}
+  - {fileID: 21300000, guid: cd983a9ce985e784698eb77e3a260c83, type: 3}
+  - {fileID: 21300000, guid: e820e15066ad74c4c9ce33901628a460, type: 3}
+  - {fileID: 21300000, guid: 1f4c4ee03a5569446bfe43b84ae684e3, type: 3}
+  - {fileID: 21300000, guid: 552f090cca5f651498536a130ac7342d, type: 3}
+  - {fileID: 21300000, guid: 3a1dbab121c60dd4f845a5120522f44f, type: 3}
+  - {fileID: 21300000, guid: 3bfedb3c713665948b7e175c03812707, type: 3}
+  - {fileID: 21300000, guid: d36929265104a24448adfa9aa89de808, type: 3}
+  - {fileID: 21300000, guid: c226f3826766f354680b5996e49cf91f, type: 3}
+  - {fileID: 21300000, guid: b5c0a3ef0d97cf74f8d90d9d4cf5eeaf, type: 3}
+  - {fileID: 21300000, guid: 8087c23e05e9f0a47affa19a2d97341b, type: 3}
+  - {fileID: 21300000, guid: b479f325254f9474cad25ddf34e2daf5, type: 3}
+  - {fileID: 21300000, guid: 9a2ee700fc1c0054c8259c9fed27e0af, type: 3}
+  - {fileID: 21300000, guid: 46e7e7dc4734a0e4db7ae791c6e9e161, type: 3}
+  - {fileID: 21300000, guid: d5850cb830ecb2f45a67897d83af5cf5, type: 3}
+  - {fileID: 21300000, guid: 1557690330b75e34985de9853f3cc8d3, type: 3}
+  - {fileID: 21300000, guid: 230751ed37af10a45a031e73b7543eb9, type: 3}
+  - {fileID: 21300000, guid: bba3bc0d9dfd9f54cb7de81a2a3a355a, type: 3}
+  - {fileID: 21300000, guid: 622a9e78dfbdc8e4697f48d28f27c0c2, type: 3}
+  - {fileID: 21300000, guid: 6ba905189a2c8ae4b8e6f3e996006139, type: 3}
+  - {fileID: 21300000, guid: f33f872f08af6034b832b8ccc2c7b3a4, type: 3}
+  - {fileID: 21300000, guid: 65b750ac05fd49341898c974da3356fc, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - CS3D_Glow
+  - CSL_List_Glow
+  - SwitchSelect_Background
+  - HS_BB_Decoration
+  - CSL_Header_Background
+  - BB_Tribals
+  - LCC_Section_Glow
+  - LCC_Box_Background
+  - HS_Box_Background
+  - LCC_Section_Header
+  - CS3D_Arrow_Left
+  - CSL_List_Character_Avatar_Border
+  - CSL_List_Character_Avatar_Background
+  - LCC_Box_Selected
+  - CSL_List_Character_Background
+  - Lobby_Tooltip_Background
+  - CSL_List_Character_Active
+  - CS3D_Arrow_Overlay
+  - Faction_Blue
+  - Faction_Red
+  - Gender_Male
+  - Gender_Female
+  - Lobby_Important
+  - LCC_Section_Border
+  - LCC_Box_Background2
+  - Shield
+  - SwitchSelect_Arrow
+  - Plus
+  - Lobby_TextBox_Button
+  - Swords
+  - Tower
+  - SwitchSelect_Background_Arrow_Down
+  - CSL_Create_Icon
+  - SwitchSelect_Arrow_Overlay
+  - SwitchSelect_Background_Arrow_Down_Fill
+  - Lobby_Tooltip_Arrow_Down
+  - Lobby_Tooltip_Arrow_Left
+  - Lobby_Tooltip_Background_Arrow_Left
+  - Lobby_Tooltip_Background_Arrow_Down
+  - LCC_Section_Border_Arrow
+  m_Tag: RnM UI 8 Lobby
+  m_IsVariant: 0
